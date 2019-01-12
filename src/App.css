@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -30,3 +31,9 @@
     transform: rotate(360deg);
   }
 }
+
+.wordTiles {
+  height: 50px;
+  width: 100px;
+  background: darkslategray
+} 
